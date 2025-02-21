@@ -6,4 +6,4 @@ Bu proje, kişisel ve profesyonel bilgilerimi sergileyen bir portföy web sitesi
 <img width="1470" alt="Ekran Resmi 2025-02-21 18 18 23" src="https://github.com/user-attachments/assets/c5f1b53e-a267-44ef-bca2-01aec3ee872a" />
 <img width="1470" alt="Ekran Resmi 2025-02-21 18 18 15" src="https://github.com/user-attachments/assets/a9af77c9-b013-473f-8054-e8d3ce1234ac" />
 <img width="1470" alt="Ekran Resmi 2025-02-21 18 18 08" src="https://github.com/user-attachments/assets/76296cf9-0b92-4212-b2d5-3096664fd4f6" />
- Resmi 2025-02-21 18.17.50.png…]()
+
